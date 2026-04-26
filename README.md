@@ -86,6 +86,7 @@ P2_Book_Recommendation_System/
 ---
 
 ## 💡 Usage
+
 * Homepage → Shows popular books
 * Recommendation Page → Enter a book name to get similar books
 
