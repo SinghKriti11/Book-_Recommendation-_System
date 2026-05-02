@@ -27,6 +27,7 @@ This system helps users discover books based on overall popularity and personali
 
 ---
 
+
 ### 2. Collaborative Filtering
 
 * Uses user-item interaction matrix
